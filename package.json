@@ -19,10 +19,6 @@
     "start": "kotatsu serve --port 4000 --config ./develop/config/index.babel.js --presets es2015,stage-0,react,react-hmre ./develop/Main.js",
     "precommit": "lint-staged"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/mexiQQ/google-map-react.git"
-  },
   "keywords": [
     "react",
     "reactjs",
