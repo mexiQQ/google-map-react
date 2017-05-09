@@ -1,5 +1,5 @@
 {
-  "name": "google-map-react",
+  "name": "google-map-react-cn",
   "version": "0.24.0",
   "description": "isomorphic google map react component, allows render react components on the google map",
   "main": "lib/index",
@@ -21,7 +21,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/istarkov/google-map-react.git"
+    "url": "git+https://github.com/mexiQQ/google-map-react.git"
   },
   "keywords": [
     "react",
